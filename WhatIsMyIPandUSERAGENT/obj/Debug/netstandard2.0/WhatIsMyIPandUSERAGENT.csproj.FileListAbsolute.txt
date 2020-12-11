@@ -1,0 +1,15 @@
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\WhatIsMyIPandUSERAGENT\WhatIsMyIPandUSERAGENT\bin\Debug\netstandard2.0\WhatIsMyIPandUSERAGENT.deps.json
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\WhatIsMyIPandUSERAGENT\WhatIsMyIPandUSERAGENT\bin\Debug\netstandard2.0\WhatIsMyIPandUSERAGENT.dll
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\WhatIsMyIPandUSERAGENT\WhatIsMyIPandUSERAGENT\bin\Debug\netstandard2.0\ref\WhatIsMyIPandUSERAGENT.dll
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\WhatIsMyIPandUSERAGENT\WhatIsMyIPandUSERAGENT\bin\Debug\netstandard2.0\WhatIsMyIPandUSERAGENT.pdb
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\WhatIsMyIPandUSERAGENT\WhatIsMyIPandUSERAGENT\obj\Debug\netstandard2.0\WhatIsMyIPandUSERAGENT.csprojAssemblyReference.cache
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\WhatIsMyIPandUSERAGENT\WhatIsMyIPandUSERAGENT\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\WhatIsMyIPandUSERAGENT\WhatIsMyIPandUSERAGENT\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\WhatIsMyIPandUSERAGENT\WhatIsMyIPandUSERAGENT\obj\Debug\netstandard2.0\WhatIsMyIPandUSERAGENT.AssemblyInfoInputs.cache
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\WhatIsMyIPandUSERAGENT\WhatIsMyIPandUSERAGENT\obj\Debug\netstandard2.0\WhatIsMyIPandUSERAGENT.AssemblyInfo.cs
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\WhatIsMyIPandUSERAGENT\WhatIsMyIPandUSERAGENT\obj\Debug\netstandard2.0\WhatIsMyIPandUSERAGENT.csproj.CoreCompileInputs.cache
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\WhatIsMyIPandUSERAGENT\WhatIsMyIPandUSERAGENT\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\WhatIsMyIPandUSERAGENT\WhatIsMyIPandUSERAGENT\obj\Debug\netstandard2.0\WhatIsMyIPandUSERAGENT.dll
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\WhatIsMyIPandUSERAGENT\WhatIsMyIPandUSERAGENT\obj\Debug\netstandard2.0\ref\WhatIsMyIPandUSERAGENT.dll
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\WhatIsMyIPandUSERAGENT\WhatIsMyIPandUSERAGENT\obj\Debug\netstandard2.0\WhatIsMyIPandUSERAGENT.pdb
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\WhatIsMyIPandUSERAGENT\WhatIsMyIPandUSERAGENT\obj\Debug\netstandard2.0\Paginas\PagPrincipal.xaml.g.cs
