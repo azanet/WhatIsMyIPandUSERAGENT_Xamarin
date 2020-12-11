@@ -10,7 +10,7 @@ namespace WhatIsMyIPandUSERAGENT
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Paginas.PagPrincipal();
         }
 
         protected override void OnStart()
